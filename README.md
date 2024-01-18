@@ -160,13 +160,13 @@ This, in turn, results in prolonged user engagement and sustained platform prosp
 
 ## System Requirements
 - Python 3.8 or later
-- Libraries: Pandas, NumPy, Scikit-Learn, etc. (see requirements.txt for a full list)
+- Libraries: Pandas, NumPy, Scikit-Learn, and more. (see requirements.txt for a full list)
 - A modern web browser
 
 ## Installation
 Clone the repository:
 bash
-git clone [repository URL]
+git clone [https://github.com/GloriaMarie/Phase-4-Project.git]
 
 Install dependencies:
 bash
