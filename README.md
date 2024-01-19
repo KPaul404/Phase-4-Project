@@ -135,6 +135,13 @@ Singular Value Decomposition (SVD): A matrix factorization technique that is cri
 
 The best Root Mean Squared Error (RMSE) achieved is 0.8713. The optimal parameters for the Singular Value Decomposition (SVD) model are found to be 15 epochs, a learning rate of 0.01, and
 a regularization term of 0.06. These parameters represent the configuration that minimizes the prediction error on the given dataset.
+#### DEPLOYMENT
+To bring this personalized movie recommendation system to life, we chose Streamlit for its neat web application deployment capabilities. Streamlit allowed us to take our machine learning model from Jupyter notebooks to an interactive, user-friendly web interface.
+We configured Streamlit to load our preprocessed movie dataset, our trained SVD recommendation model, and The Movie Database (TMDB) metadata API. The app accepts user input, generates personalized recommendations, and displays movie posters dynamically.
+
+![Screenshot 1](Screenshot%202024-01-19%20at%202.39.17%20PM.png)
+---
+![Screenshot 2](Screenshot%202024-01-19%20at%202.39.59%20PM.png)
 
 #### CONCLUSIONS
 The recommendation system has achieved a remarkable 86% accuracy in aligning user preferences with suggested movies, effectively addressing content navigation challenges. 
