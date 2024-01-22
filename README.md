@@ -174,7 +174,7 @@ This, in turn, results in prolonged user engagement and sustained platform prosp
 ## Installation
 Clone the repository:
 bash
-git clone [https://github.com/GloriaMarie/Phase-4-Project.git]
+git clone [https://github.com/KPaul404/Phase-4-Project.git]
 
 Install dependencies:
 bash
