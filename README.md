@@ -142,6 +142,7 @@ We configured Streamlit to load our preprocessed movie dataset, our trained SVD 
 ![Screenshot 1](Screenshot%202024-01-19%20at%202.39.17%20PM.png)
 ---
 ![Screenshot 2](Screenshot%202024-01-19%20at%202.39.59%20PM.png)
+---
 
 #### CONCLUSIONS
 The recommendation system has achieved a remarkable 86% accuracy in aligning user preferences with suggested movies, effectively addressing content navigation challenges. 
